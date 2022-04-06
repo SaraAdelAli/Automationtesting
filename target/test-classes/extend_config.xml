@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <extentreports>
+    <configuration>
+
+		<theme> dark </theme>
+
+		<encoding> UTF-8 </encoding>
+
+		<protocol> http </protocol>
+
+		<documentTitle> Extent Report </documentTitle>
+
+		<reportName> Automation testing </reportName>
+
+		<testViewChartLocation> bottom </testViewChartLocation>
+
+		<enableCategoryView> true </enableCategoryView>
+
+        <enableAuthorView> true </enableAuthorView>
+
+        <enableExceptionView> true </enableExceptionView>
+
+        <enableTestRunnerLogsView> true </enableTestRunnerLogsView>
+		
+		<scripts> </scripts>
+
+		<styles> </styles>
+
+    </configuration>
+</extentreports>

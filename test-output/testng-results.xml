@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-06T19:21:24 EET" name="Default suite" finished-at="2022-04-06T19:21:44 EET" duration-ms="20829">
+    <groups>
+    </groups>
+    <test started-at="2022-04-06T19:21:24 EET" name="Default test" finished-at="2022-04-06T19:21:44 EET" duration-ms="20829">
+      <class name="tests.Signuptest">
+        <test-method is-config="true" signature="setBrowserType(java.lang.String)[pri:0, instance:tests.Signuptest@1c7696c6]" started-at="2022-04-06T19:21:24 EET" name="setBrowserType" finished-at="2022-04-06T19:21:42 EET" duration-ms="18329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowserType -->
+        <test-method signature="signup()[pri:0, instance:tests.Signuptest@1c7696c6]" started-at="2022-04-06T19:21:42 EET" name="signup" finished-at="2022-04-06T19:21:42 EET" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="tackeScreenShot()[pri:0, instance:tests.Signuptest@1c7696c6]" started-at="2022-04-06T19:21:42 EET" name="tackeScreenShot" finished-at="2022-04-06T19:21:43 EET" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tackeScreenShot -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:tests.Signuptest@1c7696c6]" started-at="2022-04-06T19:21:43 EET" name="quitDriver" finished-at="2022-04-06T19:21:44 EET" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- tests.Signuptest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
